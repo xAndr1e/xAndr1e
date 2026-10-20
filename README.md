@@ -64,15 +64,6 @@ I enjoy turning ideas into reliable, scalable software while continuously learni
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xAndr1e&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=xAndr1e&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
