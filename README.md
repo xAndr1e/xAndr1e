@@ -102,5 +102,4 @@ https://www.linkedin.com/in/a-elbambuena/
       ░▀▀░░▀▀▀░░▀
 
      Building • Learning • Growing
-``>
 ```
