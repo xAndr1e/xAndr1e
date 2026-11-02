@@ -38,7 +38,7 @@ I enjoy turning ideas into reliable, scalable software while continuously learni
 #### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,nodejs" />
 </p>
 
 #### Database
