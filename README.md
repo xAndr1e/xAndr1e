@@ -20,7 +20,7 @@ I enjoy turning ideas into reliable, scalable software while continuously learni
 
 ### 🚀 Current Focus
 
-* 🌱 Learning **Next.js**, **Laravel**, and **TypeScript**
+* 🌱 Learning **Next.js**, and **TypeScript**
 * 💻 Building full-stack web applications
 * 📚 Improving software architecture and best practices
 * 🎯 Preparing for internships and software engineering roles
